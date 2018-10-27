@@ -1,3 +1,10 @@
+# Revised readme
+
+* change postgres to mysql
+
+
+
+# Origin readme
 ## Dockerizing Flask With Compose and Machine - From Localhost to the Cloud
 
 Featuring:
